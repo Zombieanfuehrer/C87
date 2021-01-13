@@ -1,0 +1,5 @@
+root:x:0:0:root:/root:/bin/bash
+www-data:x:33:33:www-data:/var/www:/bin/sh
+heinz:x:1001:100:Heinz Meier:/home/heinz:/bin/bash
+fritz:x:1002:100:Fritz Lehmann:/home/fritz:/bin/bash
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
